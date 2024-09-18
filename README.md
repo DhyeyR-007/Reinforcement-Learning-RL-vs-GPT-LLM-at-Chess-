@@ -31,7 +31,6 @@ In this project, I implemented a chess game where a Reinforcement Learning (RL) 
    git clone https://github.com/jrzmnt/chess-rl-vs-llm.git
    cd chess-rl-vs-llm
    pip install -r requirements.txt
-   
    ```
 Start the game using the main script:
 ```

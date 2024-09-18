@@ -1,4 +1,4 @@
-# Chess: RL vs LLM
+# RL vs LLM model in a game of Chess
 
 This project implements a chess game where a Reinforcement Learning (RL) agent plays against a Large Language Model (LLM). The game is visualized using a Pygame-based graphical user interface.
 
@@ -70,8 +70,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [python-chess](https://github.com/niklasf/python-chess) for the chess logic
 - [Pygame](https://www.pygame.org/) for the graphical interface
 
-## Author
-
-Created by Juarez Monteiro
-
-GitHub: [@jrzmnt](https://github.com/jrzmnt)

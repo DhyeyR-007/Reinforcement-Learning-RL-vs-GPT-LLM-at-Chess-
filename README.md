@@ -53,5 +53,5 @@ python src\main.py
 - Customization of the GUI appearance can be done in `chess_gui.py`
 
 ## FYI
-This is just an environment i built to test various other RL and LLM models over the time. Feel free to contribute by submitting a Pull request.
+This is just an environment I built to test various other RL and LLM models over the time. Feel free to contribute by submitting a Pull request.
 

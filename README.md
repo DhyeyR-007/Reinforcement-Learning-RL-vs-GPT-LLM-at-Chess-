@@ -17,12 +17,12 @@ In this project, I implemented a chess game where a Reinforcement Learning (RL) 
 
 ## Requirements
 
-- **Python 3.7+**: Ensure compatibility with the required libraries.
-- **PyTorch**: For training and running the RL and LLM models.
-- **Stable Baselines3**: Provides the Proximal Policy Optimization (PPO) algorithm for the RL agent.
-- **Pygame**: Powers the graphical user interface for the chessboard and gameplay visualization.
-- **python-chess**: A chess library for handling the game's logic and move validation.
-- **Transformers (Hugging Face)**: Utilized for loading and running the Large Language Model (DistilGPT2).
+- **Python 3.7+**   _(Ensure compatibility with the required libraries)_
+- **PyTorch**       _(For training and running the RL and LLM models)_
+- **Stable Baselines3** _(Provides the Proximal Policy Optimization (PPO) algorithm for the RL agent)_
+- **Pygame**  _(Powers the graphical user interface for the chessboard and gameplay visualization)_
+- **python-chess**  _(A chess library for handling the game's logic and move validation)_
+- **Transformers (Hugging Face)**     _(Utilized for loading and running the Large Language Model (DistilGPT2).)_
 
 
 ## Getting started

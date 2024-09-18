@@ -55,10 +55,3 @@ python src\main.py
 ## FYI
 This is just an environment i built to test various other RL and LLM models over the time. Feel free to contribute by submitting a Pull request.
 
-## Reference
-
-- [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) : RL
-- [Hugging Face Transformers](https://github.com/huggingface/transformers) : LLM 
-- [python-chess](https://github.com/niklasf/python-chess) : Chess game logic
-- [Pygame](https://www.pygame.org/) : GUI
-

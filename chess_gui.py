@@ -207,8 +207,8 @@ class ChessGUI:
         self.screen.blit(input_surface, (self.input_box.x + 5, self.input_box.y + 5))
 
         # Add creator information
-        creator_text = self.small_font.render("Created by Juarez Monteiro", True, self.text_color)
-        github_text = self.small_font.render("GitHub: @jrzmnt", True, self.text_color)
+        creator_text = self.small_font.render("Created by Dhyey Manish Rajani", True, self.text_color)
+        github_text = self.small_font.render("Github: https://github.com/DhyeyR-007", True, self.text_color)
         self.screen.blit(creator_text, (10, self.height - 40))
         self.screen.blit(github_text, (10, self.height - 20))
 

@@ -29,12 +29,12 @@ In this project, I implemented a chess game where a Reinforcement Learning (RL) 
 
    ```
    git clone https://github.com/DhyeyR-007/Reinforcment-Learning-RL-vs-GPT-LLM-at-Chess-.git
-   cd chess-rl-vs-llm
+   cd Reinforcment-Learning-RL-vs-GPT-LLM-at-Chess-
    pip install -r requirements.txt
    ```
 Start the game using the main script:
 ```
-python src\main.py
+python main.py
 ```
 
 ## How It Works

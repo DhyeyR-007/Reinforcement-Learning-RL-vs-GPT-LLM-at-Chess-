@@ -3,7 +3,7 @@
 In this project, I implemented a chess game where a Reinforcement Learning (RL) agent faces off against a Large Language Model (LLM). The game is displayed through a Pygame-based graphical user interface for visualization.
 
 <p align="center">
-  <img src="rl-vs-llm.gif" alt="Chess game between an RL and LLM models" width="35%">
+  <img src="rl-vs-llm.gif" alt="Chess game between an RL and LLM models" width="55%">
 </p>
 
 ## Key Features

@@ -28,7 +28,7 @@ In this project, I implemented a chess game where a Reinforcement Learning (RL) 
 ## Getting started
 
    ```
-   git clone https://github.com/jrzmnt/chess-rl-vs-llm.git
+   git clone https://github.com/DhyeyR-007/Reinforcment-Learning-RL-vs-GPT-LLM-at-Chess-.git
    cd chess-rl-vs-llm
    pip install -r requirements.txt
    ```
